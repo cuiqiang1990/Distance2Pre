@@ -6,11 +6,17 @@ Distance2Pre: Personalized Spatial Preference for Next Point-of-Interest Predict
 BibTex:
 
 @inproceedings{cui2019distance2pre,
+
   title={Distance2Pre: Personalized Spatial Preference for Next Point-of-Interest Prediction},
+  
   author={Cui, Qiang and Tang, Yuyuan and Wu, Shu and Wang, Liang},
+  
   booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)},
+  
   pages={289--301},
+  
   year={2019},
+  
   organization={Springer}
 }
 
