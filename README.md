@@ -24,6 +24,7 @@ The annotations are in Chinese. Please note that we do not know any information 
 
 If you have other questions or confusions, please send email to [cuiqiang1990@hotmail.com].
 
+数据集路径：Distance2Pre/code/programs/poidata/
 
 theano就大体看看吧，不用深究，我也不用这个了。
 
